@@ -1,4 +1,4 @@
-*) Création de compte GitHub pour l'Entreprise
+﻿*) Création de compte GitHub pour l'Entreprise
 *) Helloword réalisé avec les tâches suivantes :
 	- Creation d'issue : issue (bug) = tâche (développement,évolution, merge,...).
 	- Creation de branche (à l'image/snapshot du master)
@@ -11,4 +11,5 @@
 *) To Do Soirée :
 Se document sur la gestion des users GitHub et regler le problème du commit supremit : OK
 Création du répo Reports sous GitHub : Done
+Test du commit depuis le web/desktop
 Définition d'une architecture Maven du Project des PoCs
