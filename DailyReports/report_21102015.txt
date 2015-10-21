@@ -11,5 +11,5 @@
 *) To Do Soirée :
 Se document sur la gestion des users GitHub et regler le problème du commit supremit : OK
 Création du répo Reports sous GitHub : Done
-Test du commit depuis le web/desktop
+Test du commit depuis le web/desktop : Done
 Définition d'une architecture Maven du Project des PoCs
