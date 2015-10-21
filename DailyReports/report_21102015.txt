@@ -1,14 +1,14 @@
-*) CrÈation de compte GitHub pour l'Entreprise
-*) Helloword rÈalisÈ avec les t‚ches suivantes :
-	- Creation d'issue : issue (bug) = t‚che (dÈveloppement,Èvolution, merge,...).
-	- Creation de branche (‡ l'image/snapshot du master)
+*) Cr√©ation de compte GitHub pour l'Entreprise
+*) Helloword r√©alis√© avec les t√¢ches suivantes :
+	- Creation d'issue : issue (bug) = t√¢che (d√©veloppement,√©volution, merge,...).
+	- Creation de branche (√† l'image/snapshot du master)
 	- Merge de branche avec creation/cloture d'issue
-*) ProblËmes rencontrÈs :
-	- Comment effacer un repo : Depuis l'onlet settings d'un repo , aller ‡ l'onglet "Options" c'est tout en bas en rouge.
-	- CrÈation de dossier : depuis le GuitHub Desktop ?
-	- CrÈation de repo depuis le GuitHub Desktop avec le mÍme nom qu'un repo existant --> BOM dans le publish
-  	- ProblËme avec le commit/publish depuis le desktop : nom de user "supremit" --> Gestion d'utilisateur :se documenter la dessus
-*) To Do SoirÈe :
-Se document sur la gestion des users GitHub
-CrÈation du rÈpo Reports sous GitHub
-DÈfinition d'une architecture Maven du Project des PoCs
+*) Probl√®mes rencontr√©s :
+	- Comment effacer un repo : Depuis l'onlet settings d'un repo , aller √† l'onglet "Options" c'est tout en bas en rouge.
+	- Cr√©ation de dossier : depuis le GuitHub Desktop ?
+	- Cr√©ation de repo depuis le GuitHub Desktop avec le m√™me nom qu'un repo existant --> BOM dans le publish
+  	- Probl√®me avec le commit/publish depuis le desktop : nom de user "supremit" --> Gestion d'utilisateur :se documenter la dessus
+*) To Do Soir√©e :
+Se document sur la gestion des users GitHub et regler le probl√®me du commit supremit : OK
+Cr√©ation du r√©po Reports sous GitHub : Done
+D√©finition d'une architecture Maven du Project des PoCs
