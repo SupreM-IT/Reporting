@@ -1,0 +1,14 @@
+*) Création de compte GitHub pour l'Entreprise
+*) Helloword réalisé avec les tâches suivantes :
+	- Creation d'issue : issue (bug) = tâche (développement,évolution, merge,...).
+	- Creation de branche (à l'image/snapshot du master)
+	- Merge de branche avec creation/cloture d'issue
+*) Problèmes rencontrés :
+	- Comment effacer un repo : Depuis l'onlet settings d'un repo , aller à l'onglet "Options" c'est tout en bas en rouge.
+	- Création de dossier : depuis le GuitHub Desktop ?
+	- Création de repo depuis le GuitHub Desktop avec le même nom qu'un repo existant --> BOM dans le publish
+  	- Problème avec le commit/publish depuis le desktop : nom de user "supremit" --> Gestion d'utilisateur :se documenter la dessus
+*) To Do Soirée :
+Se document sur la gestion des users GitHub
+Création du répo Reports sous GitHub
+Définition d'une architecture Maven du Project des PoCs
