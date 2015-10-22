@@ -1,0 +1,5 @@
+Définition d'une architecture Maven du Project des PoCs :
+  -Se documenter sur Maven 2 :
+	Maven crée le POM avec les plugin archtype -->Y'aurait-il une configuration spéciale pour les projets avec modules ?
+	Tous les POMs héritent d'un Super POM dans lequel est définit (et peut être personalisé) (en autres) la structure du projet (fileSystem).
+        Création d'un rappel pour Maven 2
